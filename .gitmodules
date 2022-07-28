@@ -1,0 +1,3 @@
+[submodule "subrepo-test-parent"]
+	path = subrepo-test-parent
+	url = git@github.com:rmacnak-google/subrepo-test-parent.git
